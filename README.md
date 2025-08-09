@@ -1,7 +1,9 @@
 # FastReact BetterDiscord Plugin
 
 FastReact is a BetterDiscord plugin designed to streamline emoji interactions on Discord desktop.  
+
 It adds a context menu option for quick emoji reactions when right-clicking messages and a customizable chat bar button for instant emoji sending.  
+
 Seamlessly integrated with minimal impact, it enhances your Discord experience by speeding up reactions and messages.
 
 ---
