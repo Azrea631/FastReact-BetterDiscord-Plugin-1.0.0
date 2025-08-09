@@ -17,7 +17,7 @@ Fully customizable — change the emoji anytime from the plugin’s settings.
 
 ## 📦 Installation
 1. **Download the plugin file**:
-   - [FastReact.plugin.js](https://github.com/Azrea631/FastReact/raw/main/FastReact.plugin.js)
+   - [FastReact.plugin.js](https://github.com/Azrea631/FastReact-BetterDiscord-Plugin-1.0.0/releases/download/v1.0.0/FastReact.plugin.js) 
 
 2. **Move it to your BetterDiscord plugins folder**:
    - **Windows:**  
