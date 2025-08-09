@@ -1,41 +1,59 @@
-# FastReact BetterDiscord Plugin
+# FastReact
+A BetterDiscord plugin that lets you instantly react to messages with a default emoji (❤️ by default) using two quick-access methods:  
+- **Right-click menu:** Adds “React with ❤️” to any message.  
+- **Chat bar button:** Adds a small heart button next to the gift icon that sends your emoji directly to the chat.  
 
-FastReact is a BetterDiscord plugin designed to streamline emoji interactions on Discord desktop.  
-
-It adds a context menu option for quick emoji reactions when right-clicking messages and a customizable chat bar button for instant emoji sending.  
-
-Seamlessly integrated with minimal impact, it enhances your Discord experience by speeding up reactions and messages.
-
----
-
-## How to Install FastReact
-
-1. **Download the plugin file named `FastReact.plugin.js`.**  
-2. **Open Discord desktop with BetterDiscord installed.**  
-3. **Navigate to Settings → Plugins.**  
-4. **Click on “Open Plugins Folder.”**  
-5. **Copy the downloaded `FastReact.plugin.js` file into the plugins folder.**  
-6. **Back in Discord, enable “FastReact” in the Plugins tab.**  
+Fully customizable — change the emoji anytime from the plugin’s settings.
 
 ---
 
-## Troubleshooting
-
-- **Plugin not showing up in Plugins tab?**  
-  - Ensure the `FastReact.plugin.js` file is placed directly inside the correct BetterDiscord plugins folder.  
-  - Restart Discord to refresh the plugins list if necessary.  
-  - Confirm you have the latest version of BetterDiscord installed.  
-
-- **Plugin not working or acting strangely?**  
-  - Make sure your plugin version is compatible with your BetterDiscord version.  
-  - Disable other plugins temporarily to check for conflicts.  
-  - Remove and reinstall the plugin file.  
-  - Check the developer console (Ctrl+Shift+I) for error messages.
-
-- **Discord update broke the plugin?**  
-  - Wait for an updated plugin version compatible with the latest Discord client.  
-  - Join the plugin’s support community or GitHub repo for updates.
+## ✨ Features
+- Quick-react from the right-click message menu.
+- One-click emoji send from the chat bar.
+- Fully customizable default emoji via settings.
+- No more opening the reaction picker or typing the emoji manually.
 
 ---
 
-If you need further assistance, feel free to open an issue on the GitHub repository or contact the maintainer.
+## 📦 Installation
+1. **Download the plugin file**:
+   - [FastReact.plugin.js](https://github.com/Azrea631/FastReact/raw/main/FastReact.plugin.js)
+
+2. **Move it to your BetterDiscord plugins folder**:
+   - **Windows:**  
+     ```
+     %appdata%\BetterDiscord\plugins
+     ```
+   - **Mac:**  
+     ```
+     ~/Library/Application Support/BetterDiscord/plugins
+     ```
+
+3. **Enable it**:
+   - Open **Discord → User Settings → Plugins**.
+   - Toggle on **FastReact**.
+
+---
+
+## ⚙️ Configuration
+1. In Discord, go to **User Settings → Plugins → FastReact → Settings**.
+2. Change the emoji to whatever you want.
+3. It updates instantly for both the right-click menu and the chat bar button.
+
+---
+
+## 🛠 Troubleshooting
+- **Button not showing?** Toggle the plugin off and back on.  
+- **Reactions not working?** Make sure you have permission to react in that channel.  
+- **Emoji not changing?** Double-check you saved it in the settings panel.
+
+---
+
+## 📄 License
+This plugin is free and open-source under the MIT License.
+
+---
+
+## 💡 Author
+Created by Azrea Shade 
+GitHub: Azrea(https://github.com/Azrea631)
