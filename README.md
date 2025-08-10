@@ -56,4 +56,4 @@ This plugin is free and open-source under the MIT License.
 
 ## 💡 Author
 Created by Azrea Shade 
-GitHub: Azrea(https://github.com/Azrea631)
+GitHub: Azrea(https://github.com/Azrea-Shade)
